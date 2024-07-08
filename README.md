@@ -20,3 +20,11 @@
 - If you see the Okta screen again please try to enter your username and password and signin.
 - - If you face a trouble please let the incharge know.
 - You should be able to login to your laptop and continue with the next onboarding steps. 
+
+# Next Steps
+- Install Slack from Intelligent Hub
+- Install Outlook from Intelligent Hub and setup your email
+- ..
+
+Thanks, 
+Akshay A
