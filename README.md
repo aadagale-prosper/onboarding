@@ -1,5 +1,6 @@
 # onboarding steps
 
+## Day 1 
 - After switching on your laptop you will see a screen requesting for username and password.
 - The username and password will be provided to you by the onboarding team during the orientation.
 - After receiving your username and password please enter in the username and password box and press enter.
@@ -24,7 +25,13 @@
 # Next Steps
 - Install Slack from Intelligent Hub
 - Install Outlook from Intelligent Hub and setup your email
-- ..
+- 
+
+## Day 2 
+- Complete Policies, Systems, Benefits & Perks at Prosper orientation
+- Enroll in your Health insurance via ADP
+- Submit for review
+
 
 Thanks, 
 Akshay A
