@@ -36,6 +36,9 @@ Understanding Support
  - Access Request
    - ARQ - https://prospermarketplace.atlassian.net/servicedesk/customer/portals
 
-    
+- GCP Access
+  - https://cloud.google.com/sdk/docs/install-sdk
+
+
 Thanks, 
 Akshay A
